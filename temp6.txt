@@ -1,7 +1,0 @@
-Lat;Long;address;IP
--73.98565462;40.7484284;Empire State Building; https://en.wikipedia.org/wiki/Empire_State_Building
--73.77937337;40.6429479;John F. Kennedy International Airport; https://en.wikipedia.org/wiki/
--73.98964162;40.7410592;Flatiron Building; https://en.wikipedia.org/wiki/https://en.wikipedia.org/wiki/John_F._Kennedy_International_Airport
--73.97534406;40.75160275;Chrysler Building; https://en.wikipedia.org/wiki/Chrysler_Building
--74.00813517;40.71245515;Woolworth Building; https://en.wikipedia.org/wiki/Woolworth_Building
--73.9784267;40.7591509;Rockefeller Plaza; https://en.wikipedia.org/wiki/Rockefeller_Plaza
