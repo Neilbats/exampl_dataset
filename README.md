@@ -1,3 +1,3 @@
-# exampl_dataset
+# new york places
 
-https://github.com/Neilbats/exampl_dataset/blob/main/map.html
+<iframe src="map.html" height="500" width="500"></iframe>
