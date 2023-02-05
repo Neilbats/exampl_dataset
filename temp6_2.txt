@@ -1,0 +1,7 @@
+Lat;Long;address;IP
+-73.98565462;40.7484284;Empire State Building; "https://cdn-icons-png.flaticon.com/512/58/58183.png"
+-73.77937337;40.6429479;John F. Kennedy International Airport; https://img1.pnghut.com/3/14/15/vpGUwUjG8i/airport-icon-a5-symbol-flight-airplane.jpg
+-73.98964162;40.7410592;Flatiron Building; "https://cdn-icons-png.flaticon.com/512/58/58183.png"
+-73.97534406;40.75160275;Chrysler Building; "https://cdn-icons-png.flaticon.com/512/58/58183.png"
+-74.00813517;40.71245515;Woolworth Building; "https://cdn-icons-png.flaticon.com/512/58/58183.png"
+-73.9784267;40.7591509;Rockefeller Plaza; "https://cdn-icons-png.flaticon.com/512/58/58183.png"
